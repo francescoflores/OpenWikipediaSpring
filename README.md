@@ -49,3 +49,5 @@ The Table class is designed to encapsulate structured tabular data commonly foun
 - a mapping of rows, where each row consists of a key and a list of objects, representing the header of a table. 
 
 I chose the Object class as a Table's cell type, to represent different types of data within a cell, including other tables or text strings.
+
+![classDiagram](ArticleClassDiagram.png)
