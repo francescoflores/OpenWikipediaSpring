@@ -5,7 +5,7 @@ OpenWikipedia is a web application that leverages Mediawiki's API to store an ar
 clone your OpenWikipedia backend repository using the following command:
 1. **Clone the repository**:
    ```bash
-   git clone git@github.com:francescoflores/OpenWikipediaBE.git
+   git clone git@github.com:francescoflores/OpenWikipediaSpring.git
 ---
 
 2. **Set Up MongoDB:**:
